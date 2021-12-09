@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
         <Title> Intro:
     </head>
     <body>
-        <p>Howdy everyone. My name is Jake . I attended William Jewell College in the northeast corridor of the Kansas City area where I played football and got my degree in Sport Management & Communications. For the past 6 years I have been working in a variety of sales roles, and primarialy for the past 3 years I have been working within the manufacturing/industrial automation field. I am currently enrolled in the Full-Stack Development course through MIT because of my strong desire to get involved within the Software/Tech field. In my spare time I enjoy exercise, watching sports and playing Xbox/PC games. </p>
+        <p>Howdy everyone. My name is Jake . I attended William Jewell College in the northeast corridor of the Kansas City area where I played football and got my degree in Sport Management & Communications. For the past 6 years I have been working in a variety of sales roles, and primarily for the past 3 years I have been working within the manufacturing/industrial automation field. I am currently enrolled in the Full-Stack Development course through MIT because of my strong desire to get involved within the Software/Tech field. In my spare time I enjoy exercise, watching sports and playing Xbox/PC games. </p>
     </body>
 </html>
