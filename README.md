@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jake-Holliman
-- 👀 I’m interested in web development and software sales
+- 👀 I’m interested in web development/sales
 - 🌱 I’m currently learning  HTML, Javascript and CSS
 - 💞️ I’m looking to collaborate on future projects and learn everything I can about coding
 - 📫 How to reach me Jgholliman@gmail.com
